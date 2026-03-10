@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "AlmostHumanAI",
+  "project_id": "9799e25a-27fa-49ae-a0f3-a76d232f1764"
+}
